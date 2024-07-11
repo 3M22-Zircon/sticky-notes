@@ -47,9 +47,9 @@ To run this project locally, follow these steps:
 ## Usage
 After starting the development server, open your web browser and navigate to `http://127.0.0.1:8000/`. You can create, read, update, and delete sticky notes using the user interface.
 
-[Sticky_Notes_Use_Case_Diagram](https://github.com/3M22-Zircon/sticky-notes/assets/165046856/e20a1544-98f2-48dd-8dc0-9253c60b3d9b)
+![Sticky_Notes_Use_Case_Diagram](https://github.com/3M22-Zircon/sticky-notes/assets/165046856/e20a1544-98f2-48dd-8dc0-9253c60b3d9b)
 
-[Sticky_Notes_Sequence_Diagram](https://github.com/3M22-Zircon/sticky-notes/assets/165046856/4b9cff4a-2f29-46ac-af98-ab1a47ddc094)
+![Sticky_Notes_Sequence_Diagram](https://github.com/3M22-Zircon/sticky-notes/assets/165046856/4b9cff4a-2f29-46ac-af98-ab1a47ddc094)
 e.png)
 
 ![Sticky_Notes_Class_Diagram](https://github.com/3M22-Zircon/sticky-notes/assets/165046856/26a1fd41-890c-4969-9cec-e21bae9853c3)
